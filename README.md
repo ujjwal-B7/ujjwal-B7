@@ -6,7 +6,7 @@
 
   # 💫 About Me : <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
-🔭 I’m currently studying BCA at Deerwalk Institue of Technology. <br>👯 I’m looking to collaborate on<br> 💬 Ask me about Reactjs , Nextjs<br>⚡ How to reach on me  basnetujjwal98@gmail.com
+🔭 I’m currently studying BCA at Deerwalk Institue of Technology. <br>👯 I’m looking to collaborate on<br>⚡ How to reach on me  basnetujjwal98@gmail.com
 
 
 ## 🌐 Socials:
